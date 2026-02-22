@@ -1,0 +1,8 @@
+{
+  "name": "Sam Brend Nomer - Paynet Management Platform",
+  "description": "A comprehensive office management system for Paynet branches, featuring automated check-ins with location, sim card sales tracking, and administrative approval workflows.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
